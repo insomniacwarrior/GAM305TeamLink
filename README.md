@@ -10,6 +10,8 @@ The setting of this game was determined to have the player assume the role of a 
 **Nicolas Solis**: Created GitHub repo, maintaining with shared access to whole group.
 
 **Jorge Villafana**: Edited Spreadsheet for a clearer task management. Started working on Level Design
+
+**Cole Hesler**: Started on potential enemy designs and usable assets.
 ### Intended Additional Elements:
 - Player Power-up Pickups
 
