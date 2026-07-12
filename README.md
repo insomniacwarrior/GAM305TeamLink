@@ -8,6 +8,8 @@ The setting of this game was determined to have the player assume the role of a 
 **Jacob Alarcon**: Word doc for overall scope. Maintains repo.
 
 **Nicolas Solis**: Created GitHub repo, maintaining with shared access to whole group.
+
+**Jorge Villafana**: Edited Spreadsheet for a clearer task management. Started working on Level Design
 ### Intended Additional Elements:
 - Player Power-up Pickups
 
