@@ -13,6 +13,8 @@ The setting of this game was determined to have the player assume the role of a 
 ### Intended Additional Elements:
 - Player Power-up Pickups
 
+**Cameron Miele**: Planning and player controller
+
 -	Stationary Enemies 
 
 -	Boss Enemy 
