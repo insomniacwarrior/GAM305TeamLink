@@ -12,10 +12,12 @@ The setting of this game was determined to have the player assume the role of a 
 **Jorge Villafana**: Edited Spreadsheet for a clearer task management. Started working on Level Design
 
 **Cole Hesler**: Started on potential enemy designs and usable assets.
+
+**Cameron Miele**: Planning and started working on player controller
+
+
 ### Intended Additional Elements:
 - Player Power-up Pickups
-
-**Cameron Miele**: Planning and player controller
 
 -	Stationary Enemies 
 
