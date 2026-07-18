@@ -3,7 +3,7 @@
 ### Content assumed via the brainstorm session
 The setting of this game was determined to have the player assume the role of a bounty hunter who has tracked an infamous bandit leader to his camp in the underground dungeons of a castle-fortress long forgotten. Throughout gameplay from a top-down 3d perspective, the player must navigate the dungeon, being wary of traps and obstacles along the way that would slow their advance, and defeat what threats they may while making their way to the boss. The objective is to defeat this boss, claim his bounty, and exit the dungeon on a day's good work done.
 ### Contributions
-**Taylor McCafferty**: Spreadsheet for task management. Maintains repo.
+**Taylor McCafferty**: Spreadsheet for task management. Maintains repo. Spike Traps.
 
 **Jacob Alarcon**: Word doc for overall scope. Maintains repo.
 
