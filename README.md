@@ -84,5 +84,6 @@ Shared access spreadsheet and repository manager will handle reporting automatic
 ### Testing Plan
 
 <img width="443" height="1179" alt="image" src="https://github.com/user-attachments/assets/1e42c007-a41d-4938-b1cd-93f5a82d3f3b" />
+
 ### Contributions
 **Taylor McCafferty**: Spreadsheet for task management. Maintains repo. Spike Traps.
