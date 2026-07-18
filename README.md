@@ -7,7 +7,7 @@ The setting of this game was determined to have the player assume the role of a 
 
 **Jacob Alarcon**: Word doc for overall scope. Maintains repo.
 
-**Nicolas Solis**: Created GitHub repo, maintaining with shared access to whole group.
+**Nicolas Solis**: Created GitHub repo, maintaining with shared access to whole group. Created basic Inventory System. Started work on basic main menu, pause, and settings UI/UX.
 
 **Jorge Villafana**: Edited Spreadsheet for a clearer task management. Started working on Level Design
 
@@ -85,5 +85,3 @@ Shared access spreadsheet and repository manager will handle reporting automatic
 
 <img width="443" height="1179" alt="image" src="https://github.com/user-attachments/assets/1e42c007-a41d-4938-b1cd-93f5a82d3f3b" />
 
-### Contributions
-**Taylor McCafferty**: Spreadsheet for task management. Maintains repo. Spike Traps.
