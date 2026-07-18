@@ -47,3 +47,40 @@ Polishing the final game with all functions included in the game. The player sho
 Discord server voice chat/text chat. Meetings every Monday at 11pm CST.
 ### Method for assigning and reporting tasks
 Shared access spreadsheet and repository manager will handle reporting automatically; assignments will be in with the weekly meetups and communication via Discord when applicable.
+
+## Module Three Project Log - Team Development: QA and Testing Plan
+
+### Testing Schedule
+- **Play Test (Preproduction Stage)**
+  - Basic movement and camera controls
+  - Interaction protoypes
+  - Early level blockouts
+  - Placeholder UI
+  - Prototype enemy behavior
+  - Early performance checks
+    
+-	**Demo Test (Pre-Marketing Demo Stage)**
+  -	Full level playthrough
+  -	UI/UX polish checks
+  -	Art consistency review
+  -	Audio implementation
+  -	Save/load functionaliity (if applicable)
+  -	Performance optimization
+  -	Controller/keyboard input checks
+    
+-	**Code Release Test (Final Code Release Stage)**
+-	Full regression testing
+-	Feature-by-feature verification
+-	Stress testing
+-	Memory/performance profiling
+-	Final pass on level design and collision
+-	Final UI/UX consistency check
+
+
+### Bug Tracker
+
+<img width="1165" height="88" alt="image" src="https://github.com/user-attachments/assets/ab96f84f-e14a-4167-9b40-a943c85a54c1" />
+
+### Testing Plan
+
+<img width="443" height="1179" alt="image" src="https://github.com/user-attachments/assets/1e42c007-a41d-4938-b1cd-93f5a82d3f3b" />
