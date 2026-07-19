@@ -81,6 +81,14 @@ Shared access spreadsheet and repository manager will handle reporting automatic
 
 <img width="1165" height="88" alt="image" src="https://github.com/user-attachments/assets/ab96f84f-e14a-4167-9b40-a943c85a54c1" />
 
+**Reporting Workflow
+-	Tester finds a bug
+-	Tester posts bug in Bug Tracker Sheet, image or video can be added
+-	Developer who created the function being tested is assigned to the bug
+-	Developer will be notified
+-	Fix is implemented and tested
+-	Bug will be marked as resolved or reopened with notes if needed
+
 ### Testing Plan
 
 <img width="443" height="1179" alt="image" src="https://github.com/user-attachments/assets/1e42c007-a41d-4938-b1cd-93f5a82d3f3b" />
