@@ -5,7 +5,7 @@ The setting of this game was determined to have the player assume the role of a 
 ### Contributions
 **Taylor McCafferty**: Spreadsheet for task management. Maintains repo. Spike Traps.
 
-**Jacob Alarcon**: Word doc for overall scope. Maintains repo.
+**Jacob Alarcon**: Word doc for overall scope. Maintains repo. Created a basic HUD with health elements and space for controls.
 
 **Nicolas Solis**: Created GitHub repo, maintaining with shared access to whole group. Created basic Inventory System. Started work on basic main menu, pause, and settings UI/UX.
 
