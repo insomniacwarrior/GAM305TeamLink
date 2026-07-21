@@ -13,7 +13,7 @@ The setting of this game was determined to have the player assume the role of a 
 
 **Cole Hesler**: Started on potential enemy designs and usable assets.
 
-**Cameron Miele**: Planning and started working on player controller
+**Cameron Miele**: General planning - Completed player character - Started work on music and pickups
 
 
 ### Intended Additional Elements:
