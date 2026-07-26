@@ -11,7 +11,7 @@ The setting of this game was determined to have the player assume the role of a 
 
 **Jorge Villafana**: Edited Spreadsheet for a clearer task management. Started working on Level Design
 
-**Cole Hesler**: Started on potential enemy designs and usable assets.
+**Cole Hesler**: Created enemy and player models, as well as prop and weapon models and assets.
 
 **Cameron Miele**: General planning - Completed player character - Started work on music and pickups
 
