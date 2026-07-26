@@ -3,9 +3,9 @@
 ### Content assumed via the brainstorm session
 The setting of this game was determined to have the player assume the role of a bounty hunter who has tracked an infamous bandit leader to his camp in the underground dungeons of a castle-fortress long forgotten. Throughout gameplay from a top-down 3d perspective, the player must navigate the dungeon, being wary of traps and obstacles along the way that would slow their advance, and defeat what threats they may while making their way to the boss. The objective is to defeat this boss, claim his bounty, and exit the dungeon on a day's good work done.
 ### Contributions
-**Taylor McCafferty**: Spreadsheet for task management. Maintains repo. Spike Traps.
+**Taylor McCafferty**: Spreadsheet for task management. Maintains repo. Spike Traps. Damage to player when hit with traps.
 
-**Jacob Alarcon**: Word doc for overall scope. Maintains repo.
+**Jacob Alarcon**: Word doc for overall scope. Maintains repo. Created a basic HUD with health elements and space for controls.
 
 **Nicolas Solis**: Created GitHub repo, maintaining with shared access to whole group. Created basic Inventory System. Started work on basic main menu, pause, and settings UI/UX.
 
@@ -13,7 +13,7 @@ The setting of this game was determined to have the player assume the role of a 
 
 **Cole Hesler**: Started on potential enemy designs and usable assets.
 
-**Cameron Miele**: Planning and started working on player controller
+**Cameron Miele**: General planning - Completed player character - Started work on music and pickups
 
 
 ### Intended Additional Elements:
@@ -93,3 +93,28 @@ Shared access spreadsheet and repository manager will handle reporting automatic
 
 <img width="443" height="1179" alt="image" src="https://github.com/user-attachments/assets/1e42c007-a41d-4938-b1cd-93f5a82d3f3b" />
 
+## 4-2 Project Log - Team Reflection and Alpha Release
+
+- What parts of the testing process did the team perceive to go well?
+
+The bug report spreadsheet has been one of the most helpful parts of our testing process. It allows team members to report bugs and notify the person responsible without needing to schedule a meeting. Because our team members have different schedules and live in different time zones, this has helped us communicate more efficiently and continue working without unnecessary delays.
+
+- How were bugs identified and corrected?
+
+Most bugs were identified through self-testing before changes were uploaded to the repository. Team members also tested their work after merging to make sure no new issues were introduced before pushing to the master branch. If a bug was found, the team member responsible for that feature was notified so they could investigate and fix the issue. If they had trouble finding the cause, other team members would help troubleshoot the problem.
+
+- In terms of the QA and testing process, what would you do differently to improve the process?
+
+For future projects, our team agreed that having one person dedicated to QA testing would improve our workflow. This would allow the rest of the team to continue developing new features while the QA member focuses on testing, identifying bugs, and verifying fixes instead of everyone stopping to backtrack.
+
+- What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
+
+Using the Scrum methodology has helped our team stay organized and focused on the project's goals. It keeps everyone aware of deadlines and what needs to be completed each sprint. We also found our task spreadsheet very useful because it clearly shows who is responsible for each task, what has been completed, and what still needs to be implemented.
+
+- Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+
+So far, the tools and techniques we have chosen have worked well for our team. We have not felt the need to try different project management methods because our current approach has met our needs. Since this is one of our first experiences working as a development team, our preferences may change as we gain more experience on future projects.
+
+- How did the team's approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+
+Our team selected our project management tools before completing the game design document because they are commonly used in game development. After creating the game design document, it reinforced that our choices were appropriate for the project's needs. Instead of the document influencing our decision, it confirmed that the tools we had already selected were a good fit for the project.
