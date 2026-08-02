@@ -3,7 +3,7 @@
 ### Content assumed via the brainstorm session
 The setting of this game was determined to have the player assume the role of a bounty hunter who has tracked an infamous bandit leader to his camp in the underground dungeons of a castle-fortress long forgotten. Throughout gameplay from a top-down 3d perspective, the player must navigate the dungeon, being wary of traps and obstacles along the way that would slow their advance, and defeat what threats they may while making their way to the boss. The objective is to defeat this boss, claim his bounty, and exit the dungeon on a day's good work done.
 ### Contributions
-**Taylor McCafferty**: Spreadsheet for task management. Maintains repo. Spike Traps. Damage to player when hit with traps. Stationary crossbow enemy.
+**Taylor McCafferty**: Spreadsheet for task management. Maintains repo. Spike Traps. Damage to player when hit with traps. Stationary crossbow enemy. Started work on cutscene.
 
 **Jacob Alarcon**: Word doc for overall scope. Maintains repo. Created a basic HUD with health elements and space for controls. Created minimap, fixed white spotting on previous UI, and made overlay for minimap.
 
@@ -117,4 +117,44 @@ So far, the tools and techniques we have chosen have worked well for our team. W
 
 - How did the team's approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
 
-Our team selected our project management tools before completing the game design document because they are commonly used in game development. After creating the game design document, it reinforced that our choices were appropriate for the project's needs. Instead of the document influencing our decision, it confirmed that the tools we had already selected were a good fit for the project.
+Our team selected our project management tools before completing the game design document because they are commonly used in game development. After creating the game design document, it reinforced that our choices were appropriate for the project's needs. Instead of the document influencing our decision, it confirmed
+that the tools we had already selected were a good fit for the project.
+
+## <p align="center"> Assignment: 5-2 Project Log: Team Reflection and Beta Release </p>
+
+**GAM 305 Module Five Project Log Guidelines and Rubric**
+
+<p align="center"> Overview </p>
+
+To begin this assignment, create a new section in your team repository’s README file labeled Module Five Project Log - Team Reflection.
+
+**Prompt**
+
+As a team, you will routinely conduct reviews based on your progression toward the plans you created. Evaluate the plan your team created in Module Three from a technical/programming standpoint.
+After completing your plan analysis, conduct a team reflection and consider the following:
+
+-	What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+  
+The main parts of the plan went smoothly, and everyone was able to complete what was required of them. The biggest issue some team members had was taking ideas from the planning stage and turning them into actual features. This was mainly because of our limited knowledge of Unreal Engine and some of the systems we were working with. Even though this created some challenges, everyone was able to work through them and continue making progress.
+
+-	What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+  
+Overall, nothing major went wrong with our plan. We encountered a couple of bugs during development, but because we have been working together and keeping the project organized, we have been able to deal with these problems as they come up. Even issues that could have potentially been game-breaking have mostly been a bump in the road rather than something that stopped development. Overall, the project has continued to progress well.
+
+-	How were the previous evaluations integrated into this latest stage?
+  
+We have been using the notes and feedback from previous evaluations to make changes where they are needed. We have also been following the tasks assigned to each team member to help make sure we stay on schedule and meet our project deadlines. Using the feedback from previous stages has helped us identify areas that needed improvement and apply those changes as we continued developing the game.
+
+-	What would you do differently to improve the collaboration or development process?
+  
+This has been a continuous challenge for our team, but it is something that is difficult to completely resolve because everyone has outside responsibilities and we are working in different time zones. The ideal solution would be to treat the project more like a job setting where everyone could work at the same time. Having a consistent schedule and a reliable way to communicate with everyone on a regular basis would make collaboration easier and help prevent delays when someone is unavailable.
+
+-	Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+  
+The main difficulty we experienced was not necessarily with a specific tool or technique, but with our limited experience using Unreal Engine. Throughout development, we discovered many things that we did not know how to do beforehand. Having more experience with Unreal Engine before starting the project would have saved us time and made some parts of development easier. A large part of this project has been a first-time experience for everyone, so we have had to learn as we go. While this has slowed us down in some areas, it has also helped us gain experience with the engine and the development process.
+
+-	Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
+  
+Our Beta version is fully textured, with the player able to move throughout the level. We have also completed the level requirements and implemented the four additional elements required for the project. With the final release approaching, we plan to focus on polishing the game and adding nonessential features that can improve the overall player experience. Our main goal at this point is to make sure the required features are working correctly while using the remaining development time to improve the quality and overall feel of the level.
+
+
