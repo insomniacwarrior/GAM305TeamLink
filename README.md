@@ -13,7 +13,7 @@ The setting of this game was determined to have the player assume the role of a 
 
 **Cole Hesler**: Created enemy and player models, as well as prop and weapon models and assets. Started work on rigging models and implementing prop models.
 
-**Cameron Miele**: General planning and repo maintenece - Completed player character - Started work on music - Completed stationary melee enemy
+**Cameron Miele**: General planning and repo maintenance - Completed player character - Started work on music - Completed stationary melee enemy - Added HDRI and simple lighting - Fixed various bugs including a major player character duplicate spawn - Added pillars to the map for depth (WIP)
 
 
 ### Intended Additional Elements:
