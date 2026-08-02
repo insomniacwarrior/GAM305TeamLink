@@ -128,7 +128,7 @@ that the tools we had already selected were a good fit for the project.
 
 To begin this assignment, create a new section in your team repository’s README file labeled Module Five Project Log - Team Reflection.
 
-## Prompt
+**Prompt**
 
 As a team, you will routinely conduct reviews based on your progression toward the plans you created. Evaluate the plan your team created in Module Three from a technical/programming standpoint.
 After completing your plan analysis, conduct a team reflection and consider the following:
