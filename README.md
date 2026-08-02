@@ -120,15 +120,15 @@ So far, the tools and techniques we have chosen have worked well for our team. W
 Our team selected our project management tools before completing the game design document because they are commonly used in game development. After creating the game design document, it reinforced that our choices were appropriate for the project's needs. Instead of the document influencing our decision, it confirmed
 that the tools we had already selected were a good fit for the project.
 
-<p align="center"> ## Assignment: 5-2 Project Log: Team Reflection and Beta Release </p>
+<p align="center"> Assignment: 5-2 Project Log: Team Reflection and Beta Release </p>
 
 ** GAM 305 Module Five Project Log Guidelines and Rubric **
 
-<p align="center"> ** Overview ** </p>
+<p align="center"> Overview </p>
 
 To begin this assignment, create a new section in your team repository’s README file labeled Module Five Project Log - Team Reflection.
 
-** Prompt **
+## Prompt
 
 As a team, you will routinely conduct reviews based on your progression toward the plans you created. Evaluate the plan your team created in Module Three from a technical/programming standpoint.
 After completing your plan analysis, conduct a team reflection and consider the following:
