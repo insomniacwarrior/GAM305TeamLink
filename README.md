@@ -7,7 +7,7 @@ The setting of this game was determined to have the player assume the role of a 
 
 **Jacob Alarcon**: Word doc for overall scope. Maintains repo. Created a basic HUD with health elements and space for controls. Created minimap, fixed white spotting on previous UI, and made overlay for minimap.
 
-**Nicolas Solis**: Created GitHub repo, maintaining with shared access to whole group. Created basic Inventory System. Finished work on basic UI/Main Menu/Pause/Settings. Created a functional boss enemy. Created pickups and associated buff/restoration functionality.
+**Nicolas Solis**: Created GitHub repo, maintaining with shared access to whole group. Created basic Inventory System. Finished work on basic UI/Main Menu/Pause/Settings. Created a functional boss enemy. Created pickups and associated buff/restoration functionality. Created Main Character Animations and Melee Attack action.
 
 **Jorge Villafana**: Edited Spreadsheet for a clearer task management. Started working on Level Design
 
